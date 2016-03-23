@@ -5,7 +5,6 @@ Supervised Learning: Titanic
 Analysis, Visualization and Testing Machine Learning on predicting survival rate of titanic members.
 
 Dataset: belong to Kaggle official site
-Cannot be distributed outside without allowance from Kaggle
 """
 
 import pandas as pd
